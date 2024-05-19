@@ -76,18 +76,22 @@ export default function Notes() {
         </div>
         <StackList
           title="Data Stores"
+          description="Technologies related to data storage"
           items={datas}
         />
         <StackList
           title="Front End"
+          description="Technologies related to front-end development"
           items={frontend}
         />
         <StackList
           title="Back End"
+          description="Technologies related to back-end development"
           items={backend}
         />
         <StackList
           title="Cloud"
+          description="Technologies related to cloud computing"
           items={cloud}
         />
       </div>
