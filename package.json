@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.7",
     "@headlessui/react": "^1.7.19",
     "@mdx-js/loader": "^3.0.1",
     "@mdx-js/react": "^3.0.1",
